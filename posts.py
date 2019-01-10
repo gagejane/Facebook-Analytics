@@ -187,10 +187,8 @@ if __name__=='__main__':
     top_clickers = df_winter.sort_values(by=['clickers_prop'], ascending=False)
     top_clicks = df_winter.sort_values(by=['clicks_prop'], ascending=False)
 
-    print(top_ten(top_engaged, 'ENGAGED', 'engaged_prop'))
+    # print(top_ten(top_engaged, 'ENGAGED', 'engaged_prop'))
     # print(top_ten(top_clickers, 'CLICKERS', 'clickers_prop'))
     # print(top_ten(top_clicks, 'CLICKS', 'clicks_prop'))
 
-
-
-    '''What do we need to filter out in order to only be looking at posts that advertise events?'''
+    '''What do we need to filter out in order to only be looking at actual advertisement posts'''
