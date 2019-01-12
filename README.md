@@ -66,4 +66,4 @@ Finally, I generated code to display the top 10 posts in terms of engagement, cl
 
 This report has served as a template for the types of analyses that can be run using exported Facebook analytics data. Please feel free to use [my code] in your own work with Facebook analytics!
 
-[my code]:(posts.py)
+[my code]:https://github.com/gagejane/Facebook-Analytics/blob/master/posts.py
